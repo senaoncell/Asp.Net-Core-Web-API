@@ -2,7 +2,6 @@
 
 <img src=".\assets\AspNetCoreWebApi.png" alt="" width="640" height="320">
 <br/>
-<br/>
 
 <b>Technologies Used</b>
 
@@ -89,3 +88,4 @@
 </ul>
 
 <b>Project References</b> -> Entities,Repositories
+
